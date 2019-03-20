@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
+//Fungerande notepad
 
 public class Notepad extends JFrame {
 
@@ -175,3 +176,4 @@ public class Notepad extends JFrame {
         new Notepad();
     }
 }
+
